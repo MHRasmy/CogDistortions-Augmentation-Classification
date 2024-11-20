@@ -2,7 +2,7 @@
 [![PRICAI-2024](http://img.shields.io/badge/PRICAI-2024-EF4444?style=for-the-badge&labelColor=8C2332)]()
 
 
-This is the code for the PRICAI paper [Enhanced Cognitive Distortions Detection and Classification through Data Augmentation Techniques.]() 
+This is the code for the PRICAI paper [Enhanced Cognitive Distortions Detection and Classification through Data Augmentation Techniques.](https://doi.org/10.1007/978-981-96-0116-5_11) 
 
 By Mohamad Rasmy, [Caroline Sabty](https://scholar.google.com/citations?hl=en&user=EHOWWS8AAAAJ), [Nourhan Sakr](https://www.researchgate.net/profile/Nourhan-Sakr), and [Alia El Bolock](https://scholar.google.com/citations?user=APNJwoMAAAAJ&hl=en).
 
