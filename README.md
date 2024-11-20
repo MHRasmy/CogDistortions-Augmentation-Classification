@@ -69,7 +69,17 @@ Arguments:
 # Citation
 If you use this in your paper, please cite us:
 ```
-[Citation will be available soon]
+@InProceedings{10.1007/978-981-96-0116-5_11,
+author="Rasmy, Mohamad
+and Sabty, Caroline
+and Sakr, Nourhan
+and El Bolock, Alia",
+title="Enhanced Cognitive Distortions Detection and Classification Through Data Augmentation Techniques",
+booktitle="PRICAI 2024: Trends in Artificial Intelligence",
+year="2025",
+publisher="Springer Nature Singapore",
+pages="134--145"
+}
 ```
 
 # Experiments
