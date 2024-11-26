@@ -4,7 +4,7 @@
 
 This is the code for the PRICAI paper [Enhanced Cognitive Distortions Detection and Classification through Data Augmentation Techniques.](https://doi.org/10.1007/978-981-96-0116-5_11) 
 
-By Mohamad Rasmy, [Caroline Sabty](https://scholar.google.com/citations?hl=en&user=EHOWWS8AAAAJ), [Nourhan Sakr](https://www.researchgate.net/profile/Nourhan-Sakr), and [Alia El Bolock](https://scholar.google.com/citations?user=APNJwoMAAAAJ&hl=en).
+By [Mohamad Rasmy](https://www.researchgate.net/profile/Mohamad-Rasmy), [Caroline Sabty](https://scholar.google.com/citations?hl=en&user=EHOWWS8AAAAJ), [Nourhan Sakr](https://www.researchgate.net/profile/Nourhan-Sakr), and [Alia El Bolock](https://scholar.google.com/citations?user=APNJwoMAAAAJ&hl=en).
 
 We present an enhanced approach for detecting and classifying cognitive distortions, building upon previous work by [Elsharawi et al. (2024)](https://aclanthology.org/2024.lrec-main.286/) that identified a CNN model using BERT embeddings as the most effective method. Our study explores additional embeddings from RoBERTa and GPT-2, implements fine-tuning of these models, and applies various data augmentation techniques to enhance the training dataset. The data augmentation techniques used in this study are:
 
